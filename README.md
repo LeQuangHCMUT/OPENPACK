@@ -8,7 +8,7 @@ This repository contains my solution for the **SHL_2025_Qualifiers** challenge, 
 LeQuang
 
 ## Date
-28/03/2025
+
 
 ## 1. Introduction
 
